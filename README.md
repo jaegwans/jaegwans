@@ -1,5 +1,5 @@
-## Front-end developer
-* major in software engineering
+### Front-end developer
+* Major in software engineering
 * GDSC SKHU 1st - Web
 
 
