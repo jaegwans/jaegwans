@@ -1,6 +1,6 @@
 ## Front-end developer
 * major in software engineering
-* GDSC SKHU 1st
+* GDSC SKHU 1st - Web
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaegwans&show_icons=true&theme=default)
