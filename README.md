@@ -1,5 +1,6 @@
 ## Front-end developer
-major in software engineering
+* major in software engineering
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaegwans&show_icons=true&theme=default)
