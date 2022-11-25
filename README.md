@@ -8,7 +8,7 @@
 skhu201811140@gmail.com
 
 ### 🏚 blog 
-https://kjk5.tistory.com
+https://bit.ly/3GLBMFW
 
 ## Skill
 
@@ -17,4 +17,4 @@ https://kjk5.tistory.com
 <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=skyblue"/></br>
 
 ### back
- <img src="https://img.shields.io/badge/node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/node.js-green?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
