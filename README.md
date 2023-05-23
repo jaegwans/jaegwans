@@ -14,7 +14,7 @@ skhu201811140@gmail.com
 https://bit.ly/3GLBMFW
 
 ### 👨🏻‍💻 blog
-http://kjk5.tistory.com
+http://jaegwan.kim
 
 ## Skill
 
