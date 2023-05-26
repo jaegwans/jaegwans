@@ -1,6 +1,6 @@
 > Front-end developer
 
-* <a href="https://jaegwans.notion.site/b9dbf606d9cc4f52b9115041c88275ea"> 이력서  </a>
+
 * Major in software engineering
 * <a href="https://github.com/GDSC-SKHU">GDSC SKHU - Web member</a>
 * <a href="https://user-images.githubusercontent.com/50818389/208008419-a0706e72-0ee6-4ab2-957c-deed0abeded4.png">Comento 프론트엔드 직무캠프 수료</a>
