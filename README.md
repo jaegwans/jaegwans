@@ -15,9 +15,7 @@ https://bit.ly/3GLBMFW
 ### 👨🏻‍💻 blog
 http://blog.jaegwan.com
 
-## Skill
-
-### Front
+### Skill
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=skyblue"/><img src="https://img.shields.io/badge/redux-white?style=flat-square&logo=redux&logoColor=purple"/>
 <img src="https://img.shields.io/badge/styled_components-black?style=flat-square&logo=styledcomponents&logoColor=pink"/>
