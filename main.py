@@ -5,17 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-## ✅ Latest Blog Post
-
-"""  # list of blog posts will be appended here
-
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n
-        > Front-end developer
+ > Front-end developer
 
 
 * Major in software engineering
@@ -43,7 +33,16 @@ http://blog.jaegwan.com
 <img src="https://img.shields.io/badge/recoil-grey?style=flat-square&logo=recoil&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/react_query-black?style=flat-square&logo=reactquery&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/ReactNative-ccf?style=flat-square&logo=react&logoColor=white"/>
-"
+## ✅ Latest Blog Post
+
+"""  # list of blog posts will be appended here
+
+for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx > MAX_POST:
+        break
+    else:
+        feed_date = feed['published_parsed']
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
