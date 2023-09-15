@@ -1,6 +1,4 @@
 
- > Front-end developer
-
 
 * Major in software engineering
 * <a href="https://github.com/GDSC-SKHU">GDSC SKHU - Web member</a>
@@ -23,7 +21,7 @@ http://blog.jaegwan.com
 <img src="https://img.shields.io/badge/recoil-grey?style=flat-square&logo=recoil&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/react_query-black?style=flat-square&logo=reactquery&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/ReactNative-ccf?style=flat-square&logo=react&logoColor=white"/>
-## ✅ Latest Blog Post
+### ✅ Latest Blog Post
 
 [2023/09/15 - [TIL] 구조분해와 Recoil,그리고 map(),Promise.all](https://kjk5.tistory.com/79) <br/>
 [2023/09/14 - [TIL] getServerSideProps](https://kjk5.tistory.com/78) <br/>
