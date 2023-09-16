@@ -7,18 +7,29 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
 
-## 언어
+* Major in software engineering
+* <a href="https://github.com/GDSC-SKHU">GDSC SKHU 1st- Web member</a>
+* <a href="https://user-images.githubusercontent.com/50818389/208008419-a0706e72-0ee6-4ab2-957c-deed0abeded4.png">Comento 프론트엔드 직무캠프 수료</a>
 
-<p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-</p>
+### 📭 Contect 
+skhu201811140@gmail.com
 
-## Contact me
+### 🏚 Notion
+https://bit.ly/3GLBMFW
 
-## 📕 Latest Blog Posts
+### 👨🏻‍💻 blog
+http://blog.jaegwan.com
+
+### Skill
+<img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=skyblue"/><img src="https://img.shields.io/badge/redux-white?style=flat-square&logo=redux&logoColor=purple"/>
+<img src="https://img.shields.io/badge/styled_components-black?style=flat-square&logo=styledcomponents&logoColor=pink"/>
+</br><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/recoil-grey?style=flat-square&logo=recoil&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/react_query-black?style=flat-square&logo=reactquery&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/ReactNative-ccf?style=flat-square&logo=react&logoColor=white"/>
+### 📕 Latest Blog Posts
 
 `;
 
@@ -31,7 +42,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://systorage.tistory.com/rss');
+    const feed = await parser.parseURL('https://blog.jaegwan.com/rss');
 
     // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 5; i++) {
