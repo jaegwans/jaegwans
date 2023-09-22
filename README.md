@@ -24,7 +24,7 @@ http://blog.jaegwan.com
 ### ✅ Latest Blog Post
 
 [2023/09/22 - [TIL] Layout Components class name](https://kjk5.tistory.com/86) <br/>
-[2023/09/21 - [TIL] router-query object in object 와 레이아웃 컴포넌트](https://kjk5.tistory.com/85) <br/>
+[2023/09/21 - [TIL] router-query object in object 와 레이아웃 컴포넌트, image/next](https://kjk5.tistory.com/85) <br/>
 [2023/09/20 - [TIL] 타입 단언과 타입 가드](https://kjk5.tistory.com/84) <br/>
 [2023/09/18 - [TIL] map key](https://kjk5.tistory.com/83) <br/>
 [2023/09/17 - [TIL] ssr 로딩지연과 Exhaustive-deps](https://kjk5.tistory.com/82) <br/>
