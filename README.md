@@ -23,9 +23,9 @@ http://blog.jaegwan.com
 <img src="https://img.shields.io/badge/ReactNative-ccf?style=flat-square&logo=react&logoColor=white"/>
 ### ✅ Latest Blog Post
 
+[2023/10/01 - SSR SSG ISR](https://kjk5.tistory.com/90) <br/>
 [2023/09/30 - React 렌더링 최적화](https://kjk5.tistory.com/89) <br/>
 [2023/09/27 - [TIL] Next.js localStorage -> getSeverSIdeProps 우회통신](https://kjk5.tistory.com/88) <br/>
 [2023/09/26 - Recoil Expectation Violation: Duplicate atom key "".](https://kjk5.tistory.com/87) <br/>
 [2023/09/22 - [TIL] Layout Components class name](https://kjk5.tistory.com/86) <br/>
 [2023/09/21 - [TIL] router-query object in object 와 레이아웃 컴포넌트, image/next](https://kjk5.tistory.com/85) <br/>
-[2023/09/20 - [TIL] 타입 단언과 타입 가드](https://kjk5.tistory.com/84) <br/>
