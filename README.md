@@ -16,11 +16,14 @@ http://blog.jaegwan.com
 ### Skill
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=skyblue"/><img src="https://img.shields.io/badge/redux-white?style=flat-square&logo=redux&logoColor=purple"/>
-<img src="https://img.shields.io/badge/styled_components-black?style=flat-square&logo=styledcomponents&logoColor=pink"/>
-</br><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/recoil-grey?style=flat-square&logo=recoil&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/styled_components-black?style=flat-square&logo=styledcomponents&logoColor=pink"/> <img src="https://img.shields.io/badge/recoil-grey?style=flat-square&logo=recoil&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/react_query-black?style=flat-square&logo=reactquery&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/ReactNative-ccf?style=flat-square&logo=react&logoColor=white"/>
+</br><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+
 ### ✅ Latest Blog Post
 
 [2023/10/05 - [TIL]렌더링 최적화](https://kjk5.tistory.com/91) <br/>
