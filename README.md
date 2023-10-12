@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/10/12 - [TIL] 한정된 자원에서의 프론트엔드](https://kjk5.tistory.com/93) <br/>
 [2023/10/06 - 백엔드 이력서 분석](https://kjk5.tistory.com/92) <br/>
 [2023/10/01 - SSR SSG ISR](https://kjk5.tistory.com/90) <br/>
 [2023/09/30 - React 렌더링 최적화](https://kjk5.tistory.com/89) <br/>
 [2023/09/27 - [TIL] Next.js localStorage -> getSeverSIdeProps 우회통신](https://kjk5.tistory.com/88) <br/>
 [2023/09/26 - Recoil Expectation Violation: Duplicate atom key "".](https://kjk5.tistory.com/87) <br/>
-[2023/09/22 - [TIL] Layout Components class name](https://kjk5.tistory.com/86) <br/>
