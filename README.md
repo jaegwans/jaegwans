@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/10/15 - [TIL] 모듈 번들러](https://kjk5.tistory.com/97) <br/>
 [2023/10/14 - [TIL] GCP Next.js deploy](https://kjk5.tistory.com/96) <br/>
 [2023/10/13 - [TIL]꼬리 재귀](https://kjk5.tistory.com/95) <br/>
 [2023/10/13 - [TIL]동기와 비동기](https://kjk5.tistory.com/94) <br/>
 [2023/10/12 - [TIL] 한정된 자원에서의 프론트엔드](https://kjk5.tistory.com/93) <br/>
 [2023/10/06 - 백엔드 이력서 분석](https://kjk5.tistory.com/92) <br/>
-[2023/10/01 - SSR SSG ISR](https://kjk5.tistory.com/90) <br/>
