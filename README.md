@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/10/20 - [TIL] 쌓임 맥락](https://kjk5.tistory.com/103) <br/>
+[2023/10/20 - [TIL] 리플로우 리패인트와 성능 최적화](https://kjk5.tistory.com/102) <br/>
 [2023/10/18 - [TIL] OSI 7 , TCP/IP 4 ,TCP UDP](https://kjk5.tistory.com/101) <br/>
 [2023/10/17 - [TIL] 웹 브라우저 이해](https://kjk5.tistory.com/99) <br/>
 [2023/10/15 - [TIL] Docker GCP CI/CD](https://kjk5.tistory.com/98) <br/>
 [2023/10/15 - [TIL] 모듈 번들러](https://kjk5.tistory.com/97) <br/>
-[2023/10/14 - [TIL] GCP Next.js deploy](https://kjk5.tistory.com/96) <br/>
-[2023/10/13 - [TIL]꼬리 재귀](https://kjk5.tistory.com/95) <br/>
