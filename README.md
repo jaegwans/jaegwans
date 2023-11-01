@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/11/01 - [프로그래머스] 조이스틱](https://kjk5.tistory.com/110) <br/>
 [2023/10/29 - 예외처리와 컬렉션](https://kjk5.tistory.com/109) <br/>
 [2023/10/29 - 인스턴스와클래스, 동적 바인딩](https://kjk5.tistory.com/108) <br/>
 [2023/10/26 - 프로그래머스 체육복](https://kjk5.tistory.com/107) <br/>
 [2023/10/26 - [TIL] 기술면접 1](https://kjk5.tistory.com/106) <br/>
 [2023/10/23 - [TIL] 깊은 복사](https://kjk5.tistory.com/105) <br/>
-[2023/10/20 - [TIL] 에러코드](https://kjk5.tistory.com/104) <br/>
