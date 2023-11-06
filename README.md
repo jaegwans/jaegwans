@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/11/06 - [프로그래머스] 기능개발](https://kjk5.tistory.com/113) <br/>
 [2023/11/06 - [TIL] 클로저](https://kjk5.tistory.com/112) <br/>
 [2023/11/02 - [프로그래머스] 괄호](https://kjk5.tistory.com/111) <br/>
 [2023/11/01 - [프로그래머스] 조이스틱](https://kjk5.tistory.com/110) <br/>
 [2023/10/29 - 예외처리와 컬렉션](https://kjk5.tistory.com/109) <br/>
 [2023/10/29 - 인스턴스와클래스, 동적 바인딩](https://kjk5.tistory.com/108) <br/>
-[2023/10/26 - 프로그래머스 체육복](https://kjk5.tistory.com/107) <br/>
