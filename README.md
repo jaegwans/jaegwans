@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/11/09 - [TIL] 객체에 정렬 곁들이기](https://kjk5.tistory.com/115) <br/>
 [2023/11/06 - [TIL]http 주요 상태코드](https://kjk5.tistory.com/114) <br/>
 [2023/11/06 - [프로그래머스] 기능개발](https://kjk5.tistory.com/113) <br/>
 [2023/11/06 - [TIL] 클로저](https://kjk5.tistory.com/112) <br/>
 [2023/11/02 - [프로그래머스] 괄호](https://kjk5.tistory.com/111) <br/>
 [2023/11/01 - [프로그래머스] 조이스틱](https://kjk5.tistory.com/110) <br/>
-[2023/10/29 - 예외처리와 컬렉션](https://kjk5.tistory.com/109) <br/>
