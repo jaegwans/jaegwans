@@ -26,9 +26,9 @@ http://blog.jaegwan.com
 
 ### ✅ Latest Blog Post
 
+[2023/11/13 - [JS] 알고리즘을 위한 js - 2 문자열과 순회문](https://kjk5.tistory.com/119) <br/>
 [2023/11/13 - [JS] 알고리즘을 위한 js - 1 배열](https://kjk5.tistory.com/118) <br/>
 [2023/11/11 - [프로그래머스] 프로세스](https://kjk5.tistory.com/117) <br/>
 [2023/11/10 - [CS] 디자인패턴](https://kjk5.tistory.com/116) <br/>
 [2023/11/09 - [TIL] 객체에 정렬 곁들이기](https://kjk5.tistory.com/115) <br/>
 [2023/11/06 - [TIL]http 주요 상태코드](https://kjk5.tistory.com/114) <br/>
-[2023/11/06 - [프로그래머스] 기능개발](https://kjk5.tistory.com/113) <br/>
