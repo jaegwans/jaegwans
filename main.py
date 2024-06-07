@@ -17,7 +17,11 @@ https://bit.ly/3GLBMFW
 ### 👨🏻‍💻 blog
 http://blog.jaegwan.com
 
-
+### career
+- 딥바이오 (2025 05 ~ ing)
+    - 프론트엔드 엔지니어
+- 해커스 교육그룹 (2023 11 - 2024 04)
+    - React native 개발자
 
 ### ✅ Latest Blog Post
 
