@@ -21,6 +21,14 @@ https://bit.ly/3GLBMFW
 ### 👨🏻‍💻 blog
 http://blog.jaegwan.com
 
+### career
+- 딥바이오 (2025 05 ~ ing)
+    - 프론트엔드 엔지니어
+- 해커스 교육그룹 (2023 11 - 2024 04)
+    - React native 개발자
+
+### ✅ Latest Blog Post
+
 ### Skill
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=typescript&logoColor=skyblue"/><img src="https://img.shields.io/badge/redux-white?style=flat-square&logo=redux&logoColor=purple"/>
