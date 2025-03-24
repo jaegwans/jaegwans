@@ -12,7 +12,3 @@ https://bit.ly/3GLBMFW
 http://blog.jaegwan.com
 
 
-
-### 👨🏻‍💻 career
-- hacker edu / mobile dev intern (2023.12 ~ 2024.04)
-- Deepbio / Front-end dev (2024.04 ~ ing)
